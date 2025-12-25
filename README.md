@@ -79,10 +79,10 @@ python SbomRootComponents.py 70ebfef4-e9c5-4358-a655-66507ba745a1
 - Python 3.7+
 - Dependency-Track 4.x
 
-## Author
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-**FurkanKAYAPINAR**
+👨‍💻 Author
+Furkan KAYAPINAR
 
-## License
-
-MIT License
+GitHub: @FurkanKAYAPINAR
